@@ -1,0 +1,19 @@
+# Archivos temporales de Visual Studio
+.vs/
+*.suo
+*.user
+*.rsuser
+
+# Resultados de compilacion
+[Bb]in/
+[Oo]bj/
+TestResults/
+
+# Archivos locales de base de datos
+*.mdf
+*.ldf
+*.ndf
+*.bak
+
+# Variables locales
+.env
